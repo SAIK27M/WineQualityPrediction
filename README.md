@@ -1,4 +1,4 @@
-# WineQulaityPrediction
-Using Random Forrest Model
+# WineQualityPrediction
+Using Random Forest Model
 
-[Your Link here]{https://drive.google.com/file/d/1AGWt5D99cO5DgYOWqf2sBJ3OoPAJaPNX/view?usp=drive_link}
+[Video Link is here]{https://drive.google.com/file/d/1AGWt5D99cO5DgYOWqf2sBJ3OoPAJaPNX/view?usp=drive_link}
